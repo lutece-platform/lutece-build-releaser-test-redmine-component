@@ -48,7 +48,6 @@
             <version>1.0.5</version>
         </dependency>
     </dependencies>
-    
     <properties>
         <componentName>releaser test redmine component</componentName>
     </properties>
