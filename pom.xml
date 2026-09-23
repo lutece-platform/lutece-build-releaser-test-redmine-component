@@ -10,7 +10,7 @@
     <artifactId>releaser-test-redmine-component</artifactId>
     <packaging>lutece-plugin</packaging>
     <name>Lutece releaser test</name>
-    <version>1.0.13</version>
+    <version>1.0.14-SNAPSHOT</version>
  
    <scm>
         <connection>scm:git:https://github.com/lutece-platform/lutece-build-releaser-test-redmine-component.git</connection>
